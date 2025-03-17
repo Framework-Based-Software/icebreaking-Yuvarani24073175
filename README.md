@@ -23,7 +23,7 @@
 Here, you'll find projects related to my Masters Degree projects and everything in between. I'm constantly working on enhancing my code and sharing new ideas. Feel free to explore and contribute to the projects that catch your interest!
 
 🤖 Some Projects You Might Find Interesting:
-Yet to come soon.
+Yet to come soon. You may find them at https://github.com/Yuvarani24073175/Yuvarani24073175
 
 🛠️ Technologies I Love
 Programming Languages: JavaScript, Java
